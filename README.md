@@ -1,1 +1,1 @@
-缩写swift，写的各种demo
+为了学swift，写的各种demo
